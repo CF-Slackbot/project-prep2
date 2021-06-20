@@ -94,3 +94,7 @@
 
 - **Documentation** Provide users well written documentation on how to correctly add/change questions, how to pull reports and search by student username(slack). And provide admin a well written guide on adding/updating/deleting users. 
 - **Security** We will keep users' quiz results safe so that only Code Fellows faculty will have access to pull. We will also keep login credentials of faculty safe. 
+
+## Wireframe
+
+![front end wireframe](slackbot_front_end.jpg)
